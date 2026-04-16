@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>20EI254 - Robotics and Machine Vision System</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>20EI254</h1>
+    <p>Robotics and Machine Vision System</p>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="units/unit1.html">Unit 1</a>
+    <a href="units/unit2.html">Unit 2</a>
+    <a href="units/unit3.html">Unit 3</a>
+    <a href="units/unit4.html">Unit 4</a>
+    <a href="units/unit5.html">Unit 5</a>
+</nav>
+
+<section class="container">
+
+    <div class="card">
+        <h2>Unit 1</h2>
+        <p>Fundamentals of Robotics</p>
+        <a href="units/unit1.html">Explore</a>
+    </div>
+
+    <div class="card">
+        <h2>Unit 2</h2>
+        <p>Kinematics and Sensors</p>
+        <a href="units/unit2.html">Explore</a>
+    </div>
+
+    <div class="card">
+        <h2>Unit 3</h2>
+        <p>Trajectory Control Techniques</p>
+        <a href="units/unit3.html">Explore</a>
+    </div>
+
+    <div class="card">
+        <h2>Unit 4</h2>
+        <p>Machine Vision System</p>
+        <a href="units/unit4.html">Explore</a>
+    </div>
+
+    <div class="card">
+        <h2>Unit 5</h2>
+        <p>Applications</p>
+        <a href="units/unit5.html">Explore</a>
+    </div>
+
+</section>
+
+<footer>
+    <p>© 20EI254 | Robotics and Machine Vision System</p>
+</footer>
+
+</body>
+</html>
